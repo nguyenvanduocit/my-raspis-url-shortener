@@ -1,5 +1,5 @@
 <?php 
 
 return array(
-    'url' => 'http://url.senviet.org/'
+    'url' => 'https://url.senviet.org/'
 );
