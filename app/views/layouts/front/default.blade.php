@@ -58,7 +58,7 @@
 					</div>
 					<div class="span4 takeTour">
 						<h3><a href="#">Got some time?</a></h3>
-						<p>Stay awhile. Head over to our tour and get a little more familiar with all of the great RasP.is features</p>
+						<p>Stay awhile. Head over to our tour and get a little more familiar with all of the great url.senviet.org features</p>
 					</div>
 					<div class="span2"></div>
 				</div>

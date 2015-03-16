@@ -101,7 +101,7 @@
 		<div class="loggedin-menu">
 			<div class="row-fluid">
 				<div class="span2">
-					<h1 class="red">RasP.is</h1>
+					<h1 class="red">URL.SenViet.org</h1>
 				</div>
 				<div class="span10">
 					<ul class="user-menu m0 pull-right">
@@ -124,11 +124,11 @@
 					<div class="span2"></div>
 					<div class="span4 feedbacks">
 						<h3><a href="#">Those who have used it!</a></h3>
-						<p>Our users say it best. Hear how some of our favorite users used <span class="emphasize">RasP.is</span> to manager their URLs.</p>
+						<p>Our users say it best. Hear how some of our favorite users used <span class="emphasize">url.senviet.org</span> to manager their URLs.</p>
 					</div>
 					<div class="span4 takeTour">
 						<h3><a href="#">Got some time?</a></h3>
-						<p>Stay awhile. Head over to our tour and get a little more familiar with all of the great RasP.is features</p>
+						<p>Stay awhile. Head over to our tour and get a little more familiar with all of the great url.senviet.org features</p>
 					</div>
 					<div class="span2"></div>
 				</div>

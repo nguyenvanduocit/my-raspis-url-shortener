@@ -66,7 +66,7 @@
 				<div class="row-fluid">
 					<div class="span2"></div>
 					<div class="span8">
-						<h1>Why chosing <span class="red">RasP.is?</span></h1>
+						<h1>Why chosing <span class="red">URL.SenViet.org?</span></h1>
 						<ul>
 							<li><span class="emphasize">Shorten your URLs</span>! RasP.is the next revolutionary URL shortener that allows you to shorten your URLs with custom shortener code or by using a dummy short code that will be generated for your long URL. Shorter thus easier to remember and to distribute.</li>
 
