@@ -1,5 +1,5 @@
 <?php 
 
 return array(
-    'url' => 'http://raspis.loc/'
+    'url' => 'http://url.senviet.org/'
 );

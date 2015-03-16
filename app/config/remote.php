@@ -1,5 +1,9 @@
 <?php
-
+$url = parse_url(getenv("CLEARDB_DATABASE_URL"));
+$host = $url["host"];
+$username = $url["user"];
+$password = $url["pass"];
+$database = substr($url["path"], 1);
 return array(
 
 	/*
@@ -29,9 +33,9 @@ return array(
 	'connections' => array(
 
 		'production' => array(
-			'host'      => '',
-			'username'  => '',
-			'password'  => '',
+			'host'      => $host,
+			'username'  => $username,
+			'password'  => $password,
 			'key'       => '',
 			'keyphrase' => '',
 			'root'      => '/var/www',
