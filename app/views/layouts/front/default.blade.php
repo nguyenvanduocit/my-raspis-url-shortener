@@ -30,9 +30,6 @@
 										<li class="pull-left">{{ HTML::link( URL::route('registerUser'), 'Register' ) }}</li>
 										<li class="pull-left">{{ HTML::link( URL::route('loginUser'), 'Login' ) }}</li>
 									@else
-                                        <li class="pull-left">{{ HTML::link(URL::route('userDashboard'), 'Dashboard', array('class' => $dashboardPage )) }}</li>
-                                        <li class="pull-left">{{ HTML::link(URL::route('userBookmarks'), 'Bookmarks', array('class' => $bookmarksPage )) }}</li>
-                                        <li class="pull-left">{{ HTML::link(URL::route('userProfile'), 'Profile', array('class' => $profilePage )) }}</li>
                                         <li class="pull-left">{{ HTML::link( URL::route('logoutUser'), 'Logout' ) }}</li>
 									@endif
 								</ul>
