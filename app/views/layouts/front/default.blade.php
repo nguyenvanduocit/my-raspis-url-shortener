@@ -22,7 +22,7 @@
 				<div class="content">
 					<div class="container-fluid">
 						<div class="span12">
-							<a href="{{ URL::to('/') }}" id="logo" class="pull-left red">RasP.is</a>
+							<a href="{{ URL::to('/') }}" id="logo" class="pull-left red">Sen Việt</a>
 							<div class="navigation pull-right">
 								<ul>
 									@if( !Auth::check() )
@@ -51,7 +51,7 @@
 					<div class="span2"></div>
 					<div class="span4 feedbacks">
 						<h3><a href="#">Those who have used it!</a></h3>
-						<p>Our users say it best. Hear how some of our favorite users used <span class="emphasize">RasP.is</span> to manager their URLs.</p>
+						<p>Our users say it best. Hear how some of our favorite users used <span class="emphasize">URL.Senviet.org</span> to manager their URLs.</p>
 					</div>
 					<div class="span4 takeTour">
 						<h3><a href="#">Got some time?</a></h3>

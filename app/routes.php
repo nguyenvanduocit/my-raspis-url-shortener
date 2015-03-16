@@ -15,7 +15,7 @@ Route::get('/', 'HomeController@index');
 
 // User Routes
 Route::group(array('prefix' => 'user'), function () 
-{	
+{
 	// Only guests can access this
 	Route::group(array('before' => 'guest'), function()
 	{
